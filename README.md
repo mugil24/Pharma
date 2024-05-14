@@ -33,97 +33,15 @@ Publish the website in the LocalHost.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Us</title>
-  <!-- Bootstrap CSS -->
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body>
-
-  <!-- Navbar -->
-  <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">VitalRx Pharmacy</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="home.html">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="pharma.html">pharma</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="products.html">Products</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
-        </li>
-      </ul>
-    </div>
-  </nav>
-
-  <!-- Page Content -->
-  <div class="container mt-5">
-    <div class="row">
-      <div class="col-md-8">
-        <h1 class="mb-4">CONTACT US</h1>
-        <p>For any inquiries or feedback, please fill out the form below and we will get back to you as soon as possible.</p>
-        <form>
-          <div class="form-group">
-            <label for="name">ENTER YOUR NAME:</label>
-            <input type="text" class="form-control" id="name" placeholder="Enter your name">
-          </div>
-          <div class="form-group">
-            <label for="email">ENTER YOUR EMAIL:</label>
-            <input type="email" class="form-control" id="email" placeholder="Enter your email">
-          </div>
-          <button type="submit" class="btn btn-success">Submit</button>
-        </form>
-      </div>
-      <div class="col-md-4">
-        <h2>VitalRx Pharmacy</h2>
-        <address>
-          <strong>Address:</strong><br>
-          Anna Nagar<br>
-          chennai-600040<br><br>
-          <strong>Email:</strong><br>
-          vitalrxpharmacy123@gmail.com<br><br>
-          <strong>Phone:</strong><br>
-          8428452109
-        </address>
-      </div>
-    </div>
-  </div>
-
-  <!-- Footer -->
-  <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy;//vaanmugil 212221040174</p>
-  </footer>
-
-  <!-- Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home</title>
   <!-- Bootstrap CSS -->
   <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body style="background-color: #e3f2fd;">
+<body style="background-color: #dce3e8;">
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">VitalRx Pharmacy</a>
+    <a class="navbar-brand" href="#">Mugil Pharmacy</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -158,11 +76,11 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-8">
-        <h1 class="display-12"><br>WELCOME TO VITALRX PHARMACY</h1><br>
-      <p class="lead">Welcome to VitalRx Pharmacy, your trusted partner in health and wellness.</p>
-      <p class="lead">At VitalRx Pharmacy, we understand the importance of accessible and reliable healthcare services. That's why we are dedicated to providing you with personalized care and top-quality products.</p>
+        <h1 class="display-12"><br>WELCOME TO MUGIL PHARMACY</h1><br>
+      <p class="lead">Welcome to Mugil Pharmacy, your trusted partner in health and wellness.</p>
+      <p class="lead">At Mugil Pharmacy, we understand the importance of accessible and reliable healthcare services. That's why we are dedicated to providing you with personalized care and top-quality products.</p>
       <p class="lead">Our team of pharmacists and healthcare professionals is committed to helping you achieve your health goals. Whether you need prescription medications, over-the-counter remedies, or expert advice, we're here to support you every step of the way.</p>
-      <p class="lead">Thank you for choosing VitalRx Pharmacy. We look forward to being your partner in health and wellness, and to helping you lead a healthier, happier life.</p>
+      <p class="lead">Thank you for choosing Mugil Pharmacy. We look forward to being your partner in health and wellness, and to helping you lead a healthier, happier life.</p>
       </div>
       <div class="col-md-4"></div>
     </div>
@@ -195,7 +113,7 @@ Publish the website in the LocalHost.
 <body class="bg-info">
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">VitalRx Pharmacy</a>
+    <a class="navbar-brand" href="#">Mugil Pharmacy</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -230,9 +148,9 @@ Publish the website in the LocalHost.
   <div class="container mt-5">
     <div class="row">
       <div class="col-md-12 bg-light py-4">
-        <h1 class="text-center">Welcome to VitalRx Pharmacy</h1>
+        <h1 class="text-center">Welcome to Mugil Pharmacy</h1>
         <div id="vision">
-          <h2 class="text-center">Why Choose VitalRx Pharmacy?</h2>
+
           <ul>
             <li>Wide Coverage: Serving over 1,200 cities and 20,000+ Pin codes, ensuring accessibility for all.</li>
             <li>Fast Delivery: Swift Express Delivery service to get your medications to you when you need them.</li>
@@ -246,7 +164,7 @@ Publish the website in the LocalHost.
         </div>
         <div id="mission">
           <h2 class="text-center">Our Mission</h2>
-          <p>At VitalRx Pharmacy, our mission is simple yet profound: to improve lives by providing safe, effective, and affordable medications that empower individuals to lead healthier and happier lives.</p>
+          <p>At Mugil Pharmacy, our mission is simple yet profound: to improve lives by providing safe, effective, and affordable medications that empower individuals to lead healthier and happier lives.</p>
         </div>
         <div id="values">
           <h2 class="text-center">Our Values</h2>
@@ -275,7 +193,7 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-products.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -289,7 +207,7 @@ products.html
 
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-success">
-    <a class="navbar-brand" href="#">VitalRx Pharmacy</a>
+    <a class="navbar-brand" href="#">Mugil</main> Pharmacy</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -332,8 +250,7 @@ products.html
               <h5 class="card-title">Product 1</h5>
               <p class="card-text"> Lindberg B-Complex is a supplement that contains a blend of essential B vitamins. Here’s a concise summary of its uses:
                 Energy Production: B vitamins play a crucial role in converting food into energy1.
-                Cell Health: They support cell growth, development, and function2.
-                Mood and Cognitive Function: B-complex vitamins may help reduce fatigue and boost mood</p>
+               </p>
               <a href="#" class="btn btn-success btn-block">Buy Now</a>
             </div>
           </div>
@@ -345,8 +262,7 @@ products.html
                 Uses:
                 Nutritional Deficiencies: Smartical New 1250mg/250IU Tablet is used to treat nutritional deficiencies.
                 Bone Health: It helps manage bone loss (osteoporosis) and weak bones (osteomalacia/rickets).
-                Hypoparathyroidism: Used to address decreased parathyroid gland activity.
-                Muscle Illnesses: It can be beneficial for certain muscle conditions1.</p>
+              </p>
               <a href="#" class="btn btn-success btn-block">Buy Now</a>
             </div>
           </div>
@@ -359,8 +275,6 @@ products.html
                 Uses:
                 Enhanced immunity: Boosts immune system with essential vitamins and minerals1.
                 Boosted energy levels: Helps combat fatigue and improves physical performance1.
-                Health risk reduction: Prevents nutritional deficiencies and reduces health complications1.
-                Optimal gut health: Supports digestion and absorption of nutrients.
                 </p>
               <a href="#" class="btn btn-success btn-block">Buy Now</a>
             </div>
@@ -382,13 +296,95 @@ products.html
 </body>
 </html>
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+    <a class="navbar-brand" href="#">Mugil Pharmacy</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="home.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="pharma.html">pharma</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="products.html">Products</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="contact.html">Contact <span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container mt-5">
+    <div class="row">
+      <div class="col-md-8">
+        <h1 class="mb-4">CONTACT US</h1>
+        <p>For any inquiries or feedback, please fill out the form below and we will get back to you as soon as possible.</p>
+        <form>
+          <div class="form-group">
+            <label for="name">ENTER YOUR NAME:</label>
+            <input type="text" class="form-control" id="name" placeholder="Enter your name">
+          </div>
+          <div class="form-group">
+            <label for="email">ENTER YOUR EMAIL:</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter your email">
+          </div>
+          <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+      </div>
+      <div class="col-md-4">
+        <h2>Mugil Pharmacy</h2>
+        <address>
+          <strong>Address:</strong><br>
+          Anna Nagar<br>
+          chennai-600040<br><br>
+          <strong>Email:</strong><br>
+          vaanmugilvs123@gmail.com<br><br>
+          <strong>Phone:</strong><br>
+         922689665
+        </address>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-4 mt-5"
+    <p>&copy;//vaanmugil 212221040174</p>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
 ```
 
-
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-14 141723.png>)
-![alt text](<Screenshot 2024-05-14 141737.png>)
-![alt text](<Screenshot 2024-05-14 141847.png>)
-![alt text](<Screenshot 2024-05-14 143056.png>)
+![alt text](<Screenshot 2024-05-14 163903.png>)
+![alt text](<Screenshot 2024-05-14 164047.png>)
+![alt text](<Screenshot 2024-05-14 164135.png>)
+![alt text](<Screenshot 2024-05-14 164537.png>)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
